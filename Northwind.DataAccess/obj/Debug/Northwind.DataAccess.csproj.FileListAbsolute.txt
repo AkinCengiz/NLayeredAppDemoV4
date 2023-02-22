@@ -1,0 +1,15 @@
+C:\Users\mgurses\source\repos\NLayeredAppDemoV4\Northwind.DataAccess\bin\Debug\Northwind.DataAccess.dll.config
+C:\Users\mgurses\source\repos\NLayeredAppDemoV4\Northwind.DataAccess\bin\Debug\Northwind.DataAccess.dll
+C:\Users\mgurses\source\repos\NLayeredAppDemoV4\Northwind.DataAccess\bin\Debug\Northwind.DataAccess.pdb
+C:\Users\mgurses\source\repos\NLayeredAppDemoV4\Northwind.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\mgurses\source\repos\NLayeredAppDemoV4\Northwind.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mgurses\source\repos\NLayeredAppDemoV4\Northwind.DataAccess\bin\Debug\Northwind.Entities.dll
+C:\Users\mgurses\source\repos\NLayeredAppDemoV4\Northwind.DataAccess\bin\Debug\Northwind.Entities.pdb
+C:\Users\mgurses\source\repos\NLayeredAppDemoV4\Northwind.DataAccess\bin\Debug\Northwind.Entities.dll.config
+C:\Users\mgurses\source\repos\NLayeredAppDemoV4\Northwind.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\mgurses\source\repos\NLayeredAppDemoV4\Northwind.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mgurses\source\repos\NLayeredAppDemoV4\Northwind.DataAccess\obj\Debug\Northwind.DataAccess.csproj.AssemblyReference.cache
+C:\Users\mgurses\source\repos\NLayeredAppDemoV4\Northwind.DataAccess\obj\Debug\Northwind.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\mgurses\source\repos\NLayeredAppDemoV4\Northwind.DataAccess\obj\Debug\Northwind.DataAccess.csproj.CopyComplete
+C:\Users\mgurses\source\repos\NLayeredAppDemoV4\Northwind.DataAccess\obj\Debug\Northwind.DataAccess.dll
+C:\Users\mgurses\source\repos\NLayeredAppDemoV4\Northwind.DataAccess\obj\Debug\Northwind.DataAccess.pdb
